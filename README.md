@@ -2,7 +2,7 @@
 <h2>Welcome to my GitHub profile! Here’s a bit about me:</h2>
 <ul style="list-style-type: none; padding: 0;">
   <li style="margin: 10px 0; display: flex; align-items: center;">
-    <strong>My name is Anh, but I would like to be called Shiny 🌟 </strong>
+    <strong>My name is Anh, but I would like to be called Shiny✨</strong>
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
     <strong>Education:</strong> Third-year Computer Science major at the
