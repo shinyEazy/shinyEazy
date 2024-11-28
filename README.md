@@ -1,3 +1,6 @@
+<div style="text-align: center; width: 100%;">
+  <img src="https://github.com/shinyEazy/shinyEazy/blob/main/crazy_zoe.png" alt="Crazy Zoe GIF" style="width: 100%; max-width: 800px;" />
+</div>
 <h1 style="font-size: 2.5rem; margin-bottom: 10px;">Hi there! 👋</h1>
 <h2>Welcome to my GitHub profile! Here’s a bit about me:</h2>
 <ul style="list-style-type: none; padding: 0;">
