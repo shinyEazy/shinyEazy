@@ -13,7 +13,7 @@
     University of Engineering and Technology, VNU
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
-    <strong>Tech Stack:</strong> Java, Python, C++, TypeScript, React
+    <strong>Tech Stack:</strong> Python, TypeScript, React
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
     <strong>Current Learning:</strong> Deepening my knowledge in Machine Learning and AI.
