@@ -9,14 +9,14 @@
     <strong>My name is Anh, but I would like to be called Shiny✨</strong>
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
-    <strong>Education:</strong> Third-year Computer Science major at the
+    <strong>Education:</strong> Last-year Computer Science major at the
     University of Engineering and Technology, VNU
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
-    <strong>Tech Stack:</strong> Python, TypeScript, React
+    <strong>Tech Stack:</strong> Python
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
-    <strong>Current Learning:</strong> Deepening my knowledge in Machine Learning and AI.
+    <strong>Current Learning:</strong> Deepening my knowledge in AI Agent and Computer Vision
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
     <strong>Interests:</strong> AI, algorithms, and innovative problem-solving
