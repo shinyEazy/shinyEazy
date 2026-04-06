@@ -9,7 +9,7 @@
     <strong>My name is Anh, but I would like to be called Shiny✨</strong>
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
-    <strong>Education:</strong> Last-year Computer Science major at the
+    <strong>Education:</strong> Final-year Computer Science major at the
     University of Engineering and Technology, VNU
   </li>
   <li style="margin: 10px 0; display: flex; align-items: center;">
